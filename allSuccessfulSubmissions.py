@@ -4,11 +4,11 @@ import re
 
 '''
 This program will ask for the spoj username and then fetch the content from the 
-url - http://www.spoj.com/status/userName/all
+url - http://www.spoj.com/users/userName/
 
 '''
 
-userName = raw_input('Enter the spoj username for the user you want to fetch the submissions : ')
+userName = raw_input('Enter the spoj username of a user to know the number of problems they have solved : ')
 
 spojUrl = 'http://www.spoj.com/users/'+userName
 
