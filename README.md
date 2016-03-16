@@ -6,6 +6,5 @@ The program asks for the Spoj username, and then fetches the 20 recent submissio
 
 <h3>ToDo -</h3>
 
-1. Fetch all solved problems and todo problems for a user.<br>
-2. Get the list of problems under a particular tag.<br>
-3. From the list of problems under a particular tag, show those problems to the user which have not been solved by them.
+1. Fetch all todo problems for a user.<br>
+2. From the list of problems under a particular tag, show those problems to the user which have not been solved by them.
